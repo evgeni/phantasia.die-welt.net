@@ -1,0 +1,11 @@
+{
+        "interfaces": {
+                "ethernet": {
+                        "eth0": {
+                                "dhcpv6-pd": {
+                                        "rapid-commit": "disable"
+                                }
+                        }
+                }
+        }
+}
