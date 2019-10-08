@@ -12,6 +12,8 @@
                 "dns": {
                         "forwarding": {
                                 "options": [
+                                        "server=8.8.8.8",
+                                        "server=8.8.4.4",
                                         "dnssec",
                                         "trust-anchor=.,20326,8,2,E06D44B80B8F1D39A95C0B0D7C65D08458E880409BBC683457104237C7F8EC8D",
                                         "dnssec-check-unsigned"
